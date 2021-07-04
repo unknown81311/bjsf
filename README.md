@@ -1,11 +1,7 @@
 # bjsf
 a better js fuck?
-here I will be histing my jsfuck code to get fromCharCode you can easither copy the code or use a requre() to importit.
+here I will be hosting my jsfuck code to get fromCharCode, just download/copy the file and add it to your project.
 
-## importing with url
-```js
-require("https://raw.githubusercontent.com/unknown81311/bjsf/main/index.js");
-```
 ## how to use it after importing?
 just use the _ c and $ characters!
 |Key|Description|
